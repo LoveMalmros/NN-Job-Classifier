@@ -8,6 +8,9 @@ Before running any files you need to download the docria wikipedia file from:
 http://fileadmin.cs.lth.se/nlp/wiki2018/enwiki.tar
 Put this file in corpus/enwiki.
 
+You also need to download the word embeddings from gloVe. Put the file name glove.6B.100d.txt in the root folder.
+Download it here: https://nlp.stanford.edu/projects/glove/
+
 ### Prerequisites
 
 Install these libraries before moving on.
