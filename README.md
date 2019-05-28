@@ -11,6 +11,8 @@ Put this file in corpus/enwiki.
 You also need to download the word embeddings from gloVe. Put the file name glove.6B.100d.txt in the root folder.
 Download it here: https://nlp.stanford.edu/projects/glove/
 
+Also delete all temp files named temp in all folders.
+
 ### Prerequisites
 
 Install these libraries before moving on.
