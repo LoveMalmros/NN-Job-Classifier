@@ -1,4 +1,4 @@
-# Text Classification - Predicting occupations (EDAN70 - Project)
+# Text Classification - Predicting occupations
 
 This is a neural network algorithm for predicting occupation based on text descriptions on persons.
 
